@@ -3,6 +3,7 @@ package org.service.advanced.hellotrace;
 
 import org.junit.jupiter.api.Test;
 import org.service.advanced.trace.TraceStatus;
+import org.service.advanced.trace.hellotrace.HelloTraceV2;
 
 public class HelloTraceV2Test {
 

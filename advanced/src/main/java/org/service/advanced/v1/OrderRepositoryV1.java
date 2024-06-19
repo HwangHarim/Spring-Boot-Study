@@ -1,7 +1,7 @@
 package org.service.advanced.v1;
 
 import lombok.RequiredArgsConstructor;
-import org.service.advanced.hellotrace.HelloTraceV1;
+import org.service.advanced.trace.hellotrace.HelloTraceV1;
 import org.service.advanced.trace.TraceStatus;
 import org.springframework.stereotype.Repository;
 
