@@ -1,8 +1,8 @@
-package org.service.advanced.treadlocal;
+package org.service.advanced.trace.treadlocal;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
-import org.service.advanced.treadlocal.code.FieldService;
+import org.service.advanced.trace.treadlocal.code.FieldService;
 
 @Slf4j
 public class FieldServiceTest {

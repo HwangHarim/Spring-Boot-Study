@@ -1,4 +1,4 @@
-package org.service.advanced.hellotrace;
+package org.service.advanced.trace.hellotrace;
 
 
 import org.junit.jupiter.api.Test;

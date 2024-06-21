@@ -1,4 +1,4 @@
-package org.service.advanced.logtrace;
+package org.service.advanced.trace.logtrace;
 
 import org.junit.jupiter.api.Test;
 import org.service.advanced.trace.TraceStatus;
