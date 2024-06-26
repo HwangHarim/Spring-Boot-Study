@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/advanced.main.iml" filepath="$PROJECT_DIR$/.idea/modules/advanced.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/advanced.test.iml" filepath="$PROJECT_DIR$/.idea/modules/advanced.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proxy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/proxy.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-study.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-study.iml" />
     </modules>
   </component>
