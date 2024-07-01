@@ -1,7 +1,6 @@
 package org.service.proxy.config.v3_proxyfactory;
 
 import lombok.extern.slf4j.Slf4j;
-import org.service.proxy.app.v1.*;
 import org.service.proxy.app.v2.OrderControllerV2;
 import org.service.proxy.app.v2.OrderRepositoryV2;
 import org.service.proxy.app.v2.OrderServiceV2;
