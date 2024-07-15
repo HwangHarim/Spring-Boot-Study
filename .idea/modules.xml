@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/advanced.test.iml" filepath="$PROJECT_DIR$/.idea/modules/advanced.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/aop.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/aop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/aop.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/itemservice-db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/itemservice-db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/itemservice-db.test.iml" filepath="$PROJECT_DIR$/.idea/modules/itemservice-db.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/jdbc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jdbc.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/proxy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/proxy.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/proxy.test.iml" filepath="$PROJECT_DIR$/.idea/modules/proxy.test.iml" />
