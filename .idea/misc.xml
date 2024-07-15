@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/Actuator" />
     <file type="web" url="file://$PROJECT_DIR$/advanced" />
     <file type="web" url="file://$PROJECT_DIR$/aop" />
+    <file type="web" url="file://$PROJECT_DIR$/itemservice-db" />
     <file type="web" url="file://$PROJECT_DIR$/jdbc" />
     <file type="web" url="file://$PROJECT_DIR$/proxy" />
   </component>
