@@ -29,10 +29,10 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
-    
+
     //DataBase
     runtimeOnly 'com.mysql:mysql-connector-j'
-
+    runtimeOnly 'com.h2database:h2'
     //JdbcTemplate 추가
     implementation 'org.springframework.boot:spring-boot-starter-jdbc'
 
