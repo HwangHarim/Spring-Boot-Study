@@ -1,6 +1,6 @@
 package com.itemservicedb;
 
-import com.itemservicedb.config.JdbcTemplateV2Config;
+import com.itemservicedb.config.MyBatisConfig;
 import com.itemservicedb.repository.ItemRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
@@ -12,7 +12,8 @@ import org.springframework.context.annotation.Profile;
 //@Import(MemoryConfig.class)
 //@Import(JdbcTemplateV1Config.class)
 @Slf4j
-@Import(JdbcTemplateV2Config.class)
+//@Import(JdbcTemplateV2Config.class)
+@Import(MyBatisConfig.class)
 @SpringBootApplication(scanBasePackages = "com.itemservicedb.web")
 public class ItemserviceDbApplication {
 
