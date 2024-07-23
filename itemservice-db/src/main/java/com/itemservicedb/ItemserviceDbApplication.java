@@ -1,6 +1,6 @@
 package com.itemservicedb;
 
-import com.itemservicedb.config.SpringDataJpaConfig;
+import com.itemservicedb.config.QuerydslConfig;
 import com.itemservicedb.repository.ItemRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
@@ -15,7 +15,8 @@ import org.springframework.context.annotation.Profile;
 //@Import(JdbcTemplateV2Config.class)
 //@Import(MyBatisConfig.class)
 //@Import(JpaConfig.class)
-@Import(SpringDataJpaConfig.class)
+//@Import(SpringDataJpaConfig.class)
+@Import(QuerydslConfig.class)
 @SpringBootApplication(scanBasePackages = "com.itemservicedb.web")
 public class ItemserviceDbApplication {
 
