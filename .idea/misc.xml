@@ -8,6 +8,7 @@
     <file type="web" url="file://$PROJECT_DIR$/itemservice-db" />
     <file type="web" url="file://$PROJECT_DIR$/jdbc" />
     <file type="web" url="file://$PROJECT_DIR$/proxy" />
+    <file type="web" url="file://$PROJECT_DIR$/springtx" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
